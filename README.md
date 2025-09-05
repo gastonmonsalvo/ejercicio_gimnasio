@@ -1,1 +1,1 @@
-# ejercicio_gimnasio
+./node_modules
